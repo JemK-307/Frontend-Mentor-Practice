@@ -57,3 +57,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Thank to Milerdev (Mentor Ohm) to release the great basic html and css course for the beginner like me. I will try to challenge myself more.
 
+"# FrontendMentor-QR-code-component" 
